@@ -274,13 +274,12 @@ For the Lipo and wriststrap you can use whatever components you want.
 | 17 | Wrist Strap 20cm *(DNP)* | 1 |
 ```
 
-## PCB Pictures
-<img width="1080" height="507" alt="ดีไซน์ที่ยังไม่ได้ตั้งชื่อ (1)" src="https://github.com/user-attachments/assets/0d99cc3a-6f9a-4cf3-a172-4e37ef07583a" />
-
 ## Assembled Pictures
 
 ## Rendered Pictures
 
+## Captive Portal interface
+<img width="456" height="429" alt="Screenshot 2026-06-18 030916" src="https://github.com/user-attachments/assets/11321944-55e9-4f7a-99f9-f4b156192abc" />
 
 ## Schematic 
 <img width="1769" height="1251" alt="SCH_Schematic1_2026-06-14 (1)_page-0001" src="https://github.com/user-attachments/assets/8684b099-6665-4e5c-9a5a-702e105f07e2" />
