@@ -26,9 +26,8 @@ This is a controller for a LED strip that lights up a piano key when pressed. I 
   
 ### Firmware
 
-* 
-* 
-* 
+* The code is in C++ made for ESP-32
+* The library version might change over time, please recheck it again.
 * Sidenote: I'm not really sure about the code but I tried my best to polish it because my friend quit half way :(
 ```
 #include <Arduino.h>
