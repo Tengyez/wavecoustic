@@ -1,2 +1,0 @@
-An LED strip that lights up a piano key when pressed. I know a version of this had been done before; however, as far as I know, there had only been a version where the input for the LED was from MIDI, which is impossible to do with an older piano or an acoustic piano. So, my idea was to use an actual microphone/jax input and FFT to translate the sound wave signal into individual key notes. Making it easier to install and accessible. 
-Thank you! :D
