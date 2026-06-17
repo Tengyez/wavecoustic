@@ -10,11 +10,10 @@ This is a controller for a LED strip that lights up a piano key when pressed. I 
 
 ### Usage
 
-* Press the button once to show the time, hold it 3 seconds to set the time.
-* Set the time by press once to increase by one, hold 3 seconds to move to another digit.
-* To charge simply plug in the usb-c. (around 5 days per charge for a 100mah battery)
-* Green led mean battery ok and red means it's running low.
-* You can learn to read the clock from this great tutorial: https://www.wikihow.com/Read-a-Binary-Clock
+* Place the 1.4m led strip over the piano in possition.
+* Charge your external LIPO-battery using Tp4056 usb-c charging module.
+* Plug the external lipo battery in and rest it on the holder (please be aware of the polarlity.
+* Set the setting mode and brightness via esp32-accesspoint captive portal.
 
 ### Assembling
 
