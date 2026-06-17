@@ -1,13 +1,10 @@
-# BCD-Wristwatch
+# Wavecoustic
 
-A pcb wristwatch using a display of 13 led using binary coded decimal 1248.
+An ESP-32 with INMP441 mic to analyse piano sound using FFT (Fast Fourier transform) to light up WS2812B led on the corresponding across the piano key.
 
 ## Description
 
-This is a binary clock where the body is made of a circuit board which for me is a nice gimick and a conversation starter.
-I specifically design it to need two shift register because if I just use the attmega the pcb surface would be bland and boring.
-I also try avoid as many smd as possible except the led because I want the user to be able to debug and fix by just looking a it.
-The entire goal of this project isn't to invent a better watch, for me it's a functional art piece customized to my own style.
+This is a controller for a LED strip that lights up a piano key when pressed. I know a version of this had been done before; however, as far as I know, there had only been a version where the input for the LED was from MIDI, which is impossible to do with an older piano or an acoustic piano. I wanted to make this project so much because looking back I would have practiced the piano so much more if it wasn't so boring. So, my goal is to use an actual microphone input and FFT to translate the sound wave signal into individual key notes. So that it becomes fun and usable. 
 
 ## Getting Started
 
