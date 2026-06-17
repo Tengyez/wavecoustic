@@ -29,7 +29,7 @@ This is a controller for a LED strip that lights up a piano key when pressed. I 
 * 
 * 
 * 
-* Sidenote I'm not really sure about the code but I tried my best to polish it because my friend quit half way.
+* Sidenote: I'm not really sure about the code but I tried my best to polish it because my friend quit half way :(
 ```
 #include <Arduino.h>
 #include <driver/i2s.h>
