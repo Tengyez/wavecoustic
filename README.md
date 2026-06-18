@@ -505,7 +505,14 @@ void loop() {
 
 This is the BOM of the entire project, just buy the normal one not the pcb version and just use jumper wire with minimal soldering required.
 ```
-
+ESP-32 devkit v1
+INMP441 mic
+WS2812B led
+LIPO-battery
+Tp4056 usb-c
+MT3608 boost converter
+Jumper wires
+PLA 3d printing fillament
 ```
 
 ## Assembled Pictures
