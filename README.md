@@ -528,6 +528,8 @@ For the Lipo and wriststrap you can use whatever components you want.
 <img width="1066" height="255" alt="image" src="https://github.com/user-attachments/assets/f935058f-1cd8-41fb-bf4d-d9253fb1b696" />
 
 ## Rendered Pictures
+<img width="1051" height="238" alt="Screenshot 2026-06-18 172513" src="https://github.com/user-attachments/assets/4d41c5bb-d906-4908-aacb-cc6fe0f857d9" />
+
 
 ## Captive Portal interface
 <img width="373" height="445" alt="Screenshot 2026-06-18 032915" src="https://github.com/user-attachments/assets/ff6574ff-b611-4831-ab5b-705859b5a18c" />
