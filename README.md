@@ -17,12 +17,14 @@ This is a controller for a LED strip that lights up a piano key when pressed. I 
 
 ### Assembling
 
-* The text on the silk screen corresponse to the schematic so soldering should be easy.
-* Please flash the attiny before you solder it.
-* Solder all the smd first, then add the resistor and capacitor based on the silk screen.
-* Hold down those with tape then solder it. Finally solder the attiny, shift-register and power components.
-* Connect the lipo battery and put it under the pcb.
-* Slide in the wrist strap through the pcb hook.
+* 
+* 
+* 
+* 
+* 
+
+### Wiring
+* Refers to the schematic down below for more indepth guide.
   
 ### Firmware
 
@@ -501,27 +503,9 @@ void loop() {
 ```
 ## Materials
 
-This is the BOM of the pcb, most of them are a through hole component.
-For the Lipo and wriststrap you can use whatever components you want.
+This is the BOM of the entire project, just buy the normal one not the pcb version and just use jumper wire with minimal soldering required.
 ```
-| No. | Component | Qty |
-| 1 | 100nF Capacitor | 5 |
-| 2 | 12pF Capacitor | 2 |
-| 3 | 4.7uF Capacitor | 2 |
-| 4 | JST B2B-PH-K-S Connector | 1 |
-| 5 | SMD LED (13 blue, 1 red, 1 green) | 15 |
-| 6 | 330Ω Resistor | 15 |
-| 7 | 10kΩ Resistor | 1 |
-| 8 | 20kΩ Resistor | 1 |
-| 9 | 5.1kΩ Resistor | 2 |
-| 10 | SMD Tactile Switch | 1 |
-| 11 | 74HC595N Shift Register | 2 |
-| 12 | ATtiny85-20PU | 1 |
-| 13 | MCP73831T-2DCI/OT Charger | 1 |
-| 14 | TYPE-C 6P USB Connector | 1 |
-| 15 | 32.768kHz Crystal | 1 |
-| 16 | LiPo Battery ~100mAh *(DNP)* | 1 |
-| 17 | Wrist Strap 20cm *(DNP)* | 1 |
+
 ```
 
 ## Assembled Pictures
