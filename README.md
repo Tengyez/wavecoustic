@@ -17,7 +17,7 @@ This is a controller for a LED strip that lights up a piano key when pressed. I 
 
 ### Assembling
 
-* 
+* print out the 3d parts
 * 
 * 
 * 
