@@ -32,7 +32,6 @@ This is a controller for a LED strip that lights up a piano key when pressed. I 
 * mount the led and the component box on your piano 
 
 ### Wiring
-* Refers to the schematic down below for more indepth guide.
 * INMP441 - ESP32
 * VDD  - 3.3V
 * GND  - GND
@@ -51,6 +50,7 @@ This is a controller for a LED strip that lights up a piano key when pressed. I 
 * Red wire   - MT3608 +Vin pin
 * Black wire - GND
 * Splice all GND together and add solder and a electrical tape!!!
+* Refers to the schematic down below for more indepth guide.
 
 ### Firmware
 
