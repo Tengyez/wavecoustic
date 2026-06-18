@@ -29,7 +29,8 @@ This is a controller for a LED strip that lights up a piano key when pressed. I 
 * connect the lipo to the external header pin
 * use a multimeter to check the boost converter and adjust first using a screw prior to adding it to the circuit
 * take the sliding lid and close it
-* mount the led and the component box on your piano 
+* mount the led and the component box on your piano
+* The only point require soldering are the INMP441 mic and the GND wires. 
 
 ### Wiring
 * INMP441 - ESP32
