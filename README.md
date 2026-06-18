@@ -525,6 +525,7 @@ For the Lipo and wriststrap you can use whatever components you want.
 ```
 
 ## Assembled Pictures
+<img width="1066" height="255" alt="image" src="https://github.com/user-attachments/assets/f935058f-1cd8-41fb-bf4d-d9253fb1b696" />
 
 ## Rendered Pictures
 
