@@ -27,6 +27,7 @@ This is a controller for a LED strip that lights up a piano key when pressed. I 
 * connect the led strip into the external headerpin
 * charge the lipo with the Tp4056 module (not include in the circuit and the case)
 * connect the lipo to the external header pin
+* cut your 2m led strip to your piano size
 * use a multimeter to check the boost converter and adjust first using a screw prior to adding it to the circuit
 * take the sliding lid and close it
 * mount the led and the component box on your piano
