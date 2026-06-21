@@ -64,17 +64,18 @@ This is a controller for a LED strip that lights up a piano key when pressed. I 
 
 This is the BOM of the entire project, just buy the normal one not the pcb version and just use jumper wire with minimal soldering required except for slicing GND together.
 ```
-ESP-32 devkit v1           1 pcs.
-INMP441 mic                1 pcs.
-WS2812B led                2m 144/m
-LIPO-battery               1 (reccomend atleast 10 000mah)
-Tp4056 usb-c               1 (does not include in the build, only use the charge lipo externally)
-MT3608 boost converter     1 pcs.
-Female Jumper wires        30 pcs.
-Male Jumper wires          15 pcs.
-Pin headers                5 pcs.
-Electrical tape            1 roll
-PLA 3d printing/time       ≈15g ≈45min
+ESP-32 devkit v1           1 pcs. 8usd
+INMP441 mic                1 pcs. 1usd
+WS2812B led                2m 144/m 20usd
+LIPO-battery               1 (reccomend atleast 10 000mah) 7usd
+Tp4056 usb-c               1 (does not include in the build, only use the charge lipo externally) 1usd
+MT3608 boost converter     1 pcs. 1usd
+Female Jumper wires        30 pcs. 1usd
+Male Jumper wires          15 pcs. 50cent
+Pin headers                5 pcs. 25cent
+Electrical tape            1 roll -
+PLA 3d printing/time       ≈15g ≈45min -
+Total: 19.75 usd
 ```
 
 ## Assembled Pictures
