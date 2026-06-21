@@ -75,7 +75,7 @@ Male Jumper wires          15 pcs. 50cent
 Pin headers                5 pcs. 25cent
 Electrical tape            1 roll -
 PLA 3d printing/time       ≈15g ≈45min -
-Total: 19.75 usd
+Total: 39.75 usd
 ```
 
 ## Assembled Pictures
