@@ -17,7 +17,7 @@ This is a controller for a LED strip that lights up a piano key when pressed. I 
 
 ### Assembling
 
-* Print out the 3d parts (body,slider,topper and please use the 3mf file I beg you)
+* Print out the 3d parts (body,slider,topper,boostcover and please use the 3mf file I beg you)
 * Put the esp-32 into the main body
 * Stack the esp32 cover lid over the esp32 to lock it in place
 * stick all the pin header into it own slot
