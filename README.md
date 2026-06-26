@@ -89,7 +89,7 @@ Total: 39.75 usd
 <img width="373" height="445" alt="Screenshot 2026-06-18 032915" src="https://github.com/user-attachments/assets/ff6574ff-b611-4831-ab5b-705859b5a18c" />
 
 
-## Schematic 
+## Wiring Diagram 
 <img width="1769" height="1251" alt="SCH_Schematic1_2026-06-14 (1)_page-0001" src="https://github.com/user-attachments/assets/8684b099-6665-4e5c-9a5a-702e105f07e2" />
 
 
