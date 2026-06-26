@@ -4,7 +4,7 @@ An ESP-32 with INMP441 mic to analyse piano sound using FFT (Fast Fourier transf
 
 ## Description
 
-This is a controller for a LED strip that lights up a piano key when pressed. I know a version of this had been done before; however, as far as I know, there had only been a version where the input for the LED was from MIDI, which is impossible to do with an older piano or an acoustic piano. I wanted to make this project so much because looking back I would have practiced the piano so much more if it wasn't so boring. So, my goal is to use an actual microphone input and FFT to translate the sound wave signal into individual key notes. So that it becomes fun and usable. 
+This is a controller for a LED strip that lights up a piano key when pressed. I know a version of this had been done before; however, as far as I know, there had only been a version where the input for the LED was from MIDI, which is impossible to do with an older piano or an acoustic piano. I wanted to make this project so much because looking back I would have practiced the piano so much more if it wasn't so boring. So, my goal is to use an actual microphone input and FFT to translate the sound wave signal into individual key notes. So that it becomes fun and usable. I wanted to make this project because I have an acoustic piano but I can't use led on it because it doesn't have a midi output so this project that only use sound will be a game changer for me! Thank you!
 
 ## Getting Started
 
